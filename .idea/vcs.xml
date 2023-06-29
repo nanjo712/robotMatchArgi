@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BUPT_RobotTeam_Libraries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oslib" vcs="Git" />
+  </component>
+</project>

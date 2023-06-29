@@ -1,0 +1,118 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "oslib",
+					"jsonFile" : "directory-oslib-Debug-01d6735934fe7dc7875b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "oslib"
+				},
+				{
+					"build" : "BUPT_RobotTeam_Libraries",
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"jsonFile" : "directory-BUPT_RobotTeam_Libraries-Debug-b9ff3155637bcfd63537.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "BUPT_RobotTeam_Libraries"
+				},
+				{
+					"build" : "BUPT_RobotTeam_Libraries/MotorLib",
+					"jsonFile" : "directory-BUPT_RobotTeam_Libraries.MotorLib-Debug-79eb8d1b0c2278ea76dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "BUPT_RobotTeam_Libraries/MotorLib"
+				},
+				{
+					"build" : "BUPT_RobotTeam_Libraries/ChassisLib_CXX",
+					"jsonFile" : "directory-BUPT_RobotTeam_Libraries.ChassisLib_CXX-Debug-dea4002efc386355064c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "BUPT_RobotTeam_Libraries/ChassisLib_CXX"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "test",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test.elf-Debug-49aeee6ecfc004bbf2a0.json",
+					"name" : "test.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/2024RobotTeam/China_Robot_Match/Agriculture_Robot/cmake-build-debug",
+		"source" : "D:/2024RobotTeam/China_Robot_Match/Agriculture_Robot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

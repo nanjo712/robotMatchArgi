@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="test" targetName="test.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="646400f3-9bfd-489d-bef9-cae39751ed3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/BUPT_RobotTeam_Libraries/ChassisLib/Mecanum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/BUPT_RobotTeam_Libraries/ChassisLib/Mecanum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/SimpleLib_workspace.pbd.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/BUPT_RobotTeam_Libraries/ChassisLib/Mecanum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/BUPT_RobotTeam_Libraries/ChassisLib/Mecanum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/SimpleLib_workspace.pbd.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/.vscode/iar-vsc.json" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/.vscode/iar-vsc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace.dep" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace.dep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Exe/SimpleLib_workspace.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Exe/SimpleLib_workspace.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/List/SimpleLib_workspace.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/SimpleLib_workspace.pbd.linf" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/SimpleLib_workspace.pbd.linf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/as5047p.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/base_chassis.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/can_func.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/can_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/cmd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/cmd_func.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/dji_board_can_v1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/dji_boardv2_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/driver_pro_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/flags.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/handle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/hash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/imitate_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/kalman.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/laser.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/led_board.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/locator.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/motor_driver.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/nrf24l01.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/nrf_comm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/odrive_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/omni_chassis.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/point.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/point_parser.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/rm_cxxx_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/rudder_chassis.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/sense.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/simplelib.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/startup_stm32f407xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/steer_wheel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_cortex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_dma_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_exti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_flash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_flash_ramfunc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_msp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_pwr_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_rcc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_tim_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_uart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stm32f4xx_it.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/stmflash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/toolBoxScope.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/vec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/vesc_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/SimpleLib_workspace/Obj/wheeltec_N100.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/settings/Project.wsdt" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV/EWARM/settings/Project.wsdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/.vscode/iar-vsc.json" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/.vscode/iar-vsc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/BUPT_RobotTeam_Libraries/ChassisLib/omni_chassis.c" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/BUPT_RobotTeam_Libraries/ChassisLib/omni_chassis.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace.dep" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace.dep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Exe/SimpleLib_workspace.hex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Exe/SimpleLib_workspace.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/List/SimpleLib_workspace.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/SimpleLib_workspace.pbd.linf" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/SimpleLib_workspace.pbd.linf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/as5047p.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/base_chassis.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/can_func.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/can_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/cmd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/cmd_func.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/dji_board_can_v1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/dji_boardv2_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/driver_pro_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/flags.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/handle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/hash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/imitate_spi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/kalman.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/laser.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/led_board.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/locator.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/motor_driver.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/nrf24l01.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/nrf_comm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/odrive_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/omni_chassis.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/point.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/point_parser.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/rm_cxxx_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/rudder_chassis.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/sense.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/simplelib.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/startup_stm32f407xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/steer_wheel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_cortex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_dma.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_dma_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_exti.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_flash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_flash_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_flash_ramfunc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_gpio.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_msp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_pwr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_pwr_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_rcc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_rcc_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_tim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_tim_ex.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_hal_uart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stm32f4xx_it.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/stmflash.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/system_stm32f4xx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/toolBoxScope.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/usart.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/vec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/vesc_can.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/SimpleLib_workspace/Obj/wheeltec_N100.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/settings/Project.wsdt" beforeDir="false" afterPath="$PROJECT_DIR$/agriculture-2022/agriculture-2022-chassis&amp;FSM/EWARM/settings/Project.wsdt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/agriculture-2022/agriculture-2022-OpenMV" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2ReVNP9X8CiNLqe9fbMGrNxhdwI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C/C++",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RtosSettings">
+    <option name="rtosEnabled" value="true" />
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD Agriculture_Robot">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="test.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="test.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="board/zdyz_daplink.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.test.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.OCD Agriculture_Robot" />
+      <item itemvalue="OpenOCD Download &amp; Run.test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="646400f3-9bfd-489d-bef9-cae39751ed3a" name="Changes" comment="" />
+      <created>1687610493717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687610493717</updated>
+      <workItem from="1687610554931" duration="4974000" />
+      <workItem from="1687676623135" duration="9975000" />
+      <workItem from="1687689162241" duration="1899000" />
+      <workItem from="1687691190036" duration="5321000" />
+      <workItem from="1687767069165" duration="5697000" />
+      <workItem from="1687779687697" duration="3548000" />
+      <workItem from="1687856923374" duration="23183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Core/Src/freertos.c</url>
+          <line>202</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Core/Src/freertos.c</url>
+          <line>194</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
